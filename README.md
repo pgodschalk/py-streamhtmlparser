@@ -152,7 +152,7 @@ Project Link: [https://github.com/pgodschalk/py-streamhtmlparser](https://github
 [issues-shield]: https://img.shields.io/github/issues/pgodschalk/py-streamhtmlparser.svg?style=for-the-badge
 [issues-url]: https://github.com/pgodschalk/py-streamhtmlparser/issues
 [license-shield]: https://img.shields.io/github/license/pgodschalk/py-streamhtmlparser?style=for-the-badge
-[license-url]: https://github.com/pgodschalk/py-streamhtmlparser/blob/main/LICENSE.txt
+[license-url]: https://github.com/pgodschalk/py-streamhtmlparser/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/patrick-godschalk
 [python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
